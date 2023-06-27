@@ -63,9 +63,9 @@ def checkuserperms():
     pyautogui.click()
     copy = pyperclip.paste()
     print(copy)
-    if copy == "40 746 499 232" or copy == "40 740 981 295":
+    if copy == "admin's nr1 phone number" or copy == "admin's nr2 phone number":
         return "yes"
-    elif "40" not in pyperclip.paste():
+    elif "what your country code starts with here" not in pyperclip.paste():
         send("A aparut o eroare in a iti verifica permisiunile, incearca din nou acum xx")
 
     return "no"
