@@ -1,4 +1,4 @@
-## WhatsAppBot-AdminChecker
+## WhatsAppBot
 ![a158bb307b56499c442791003c87a75e](https://github.com/BainBan/Whatsapp-Bot/assets/111044589/e789a46e-f966-4dbd-a818-e6311eda2338)
 
 WhatsAppBot-AdminChecker is a versatile and resilient WhatsApp bot implemented in Python, designed to simplify group chat administration. It offers a range of functionalities that can be easily integrated into your projects. The bot operates without relying on Selenium, ensuring compatibility even if WhatsApp undergoes code changes.
@@ -17,7 +17,7 @@ WhatsAppBot-AdminChecker is a versatile and resilient WhatsApp bot implemented i
 https://github.com/BainBan/Whatsapp-Bot/assets/111044589/4b06bc6d-6f2a-442e-90e6-0b9ab95b11f4
 
 
-To use WhatsAppBot-AdminChecker, ensure you have the following dependencies installed:
+To use WhatsAppBot, ensure you have the following dependencies installed:
 NOTE THAT THE FUNCTION MUTE JUST SCROLLS BASED ON DIFFERENT COORDONATES WHATSAPP WEB NEEDS TO BE AT 100% SIZE NOT LOWER NOT HIGHER ALSO THE MUTE FUNCTION WAS ONLY TESTED WITH 5 PERSONS IN A GROUP, CHANGE COORDONATES BASED ON WHAT YOU NEED. I DIDN'T USE LOCATEONSCREEEN CUZ IT'S NOT 100% ACCURATE AND ALSO IS SLOW
 
 - Python 3.x
